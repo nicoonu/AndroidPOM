@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18821" started-at="2020-04-01T20:42:59Z" finished-at="2020-04-01T20:43:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18821" started-at="2020-04-01T20:42:59Z" finished-at="2020-04-01T20:43:18Z">
+      <class name="tests.TestDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestDemo@2ac273d3]" name="setUp" is-config="true" duration-ms="13958" started-at="2020-04-01T17:42:59Z" finished-at="2020-04-01T17:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initializePage()[pri:0, instance:tests.TestDemo@2ac273d3]" name="initializePage" is-config="true" duration-ms="10" started-at="2020-04-01T17:43:13Z" finished-at="2020-04-01T17:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:tests.TestDemo@2ac273d3]" name="openApp" duration-ms="952" started-at="2020-04-01T17:43:13Z" finished-at="2020-04-01T17:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="search()[pri:0, instance:tests.TestDemo@2ac273d3]" name="search" duration-ms="3866" started-at="2020-04-01T17:43:14Z" finished-at="2020-04-01T17:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="initializePage()[pri:0, instance:tests.TestDemo@2ac273d3]" name="initializePage" is-config="true" duration-ms="0" started-at="2020-04-01T17:43:14Z" finished-at="2020-04-01T17:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+      </class> <!-- tests.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
